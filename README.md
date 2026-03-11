@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sowmith Shetty! 
+#👋 Hi, I'm Sowmith Shetty! 
 <br><br>I am a Computer Science & Engineering Undergraduate with a passion for building impactful software solutions . I specialize in Full-Stack Web Development and Mobile Application Development, while constantly exploring the intersection of Machine Learning and real-world problem-solving.<br><br>
 🛠️ Featured Projects<br><br> 
 -> KCET College Predictor: A machine learning model using Random Forest and XG Boost to predict college admissions based on competitive exam data. <br><br>
