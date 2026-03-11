@@ -1,13 +1,13 @@
 # 💫 About Me:
-#👋 Hi, I'm Sowmith Shetty! 
+👋 Hi, I'm **Sowmith Shetty**! 
 <br><br>I am a Computer Science & Engineering Undergraduate with a passion for building impactful software solutions . I specialize in Full-Stack Web Development and Mobile Application Development, while constantly exploring the intersection of Machine Learning and real-world problem-solving.<br><br>
-🛠️ Featured Projects<br><br> 
--> KCET College Predictor: A machine learning model using Random Forest and XG Boost to predict college admissions based on competitive exam data. <br><br>
--> Student ERP Portal: A cross-platform Flutter application featuring automated attendance tracking, academic dashboards, and public API integration. <br><br><br> -> Family Tree Builder: A dynamic web application for visualizing and managing complex family relationships with JSON-based data portability.<br><br>
-📈 Beyond the CodeStrategic Thinker: 
+**🛠️ Featured Projects**<br><br> 
+-> *KCET College Predictor*: A machine learning model using Random Forest and XG Boost to predict college admissions based on competitive exam data. <br><br>
+-> *Student ERP Portal*: A cross-platform Flutter application featuring automated attendance tracking, academic dashboards, and public API integration. <br><br> -> *Family Tree Builder*: A dynamic web application for visualizing and managing complex family relationships with JSON-based data portability.<br><br>
+**📈 Beyond the CodeStrategic Thinker**: 
 <br><br>-> Reached the Top 10 in the NITK Business Quiz (IPL Auction Theme), showcasing decision-making and market analysis skills.<br><br>
 -> AI Enthusiast: Active participant in Prompt Engineering challenges and workshops focused on Generative AI and automation.<br><br>
--> Community Focused: Guided high school students in Design Thinking to help them solve real-world problems. <br><br>Let's Connect!<br><br>
+-> Community Focused: Guided high school students in Design Thinking to help them solve real-world problems. <br><br>
 
 
 ## 🌐 Socials:
