@@ -4,7 +4,7 @@
 **🛠️ Featured Projects**<br><br> 
 -> *KCET College Predictor*: A machine learning model using Random Forest and XG Boost to predict college admissions based on competitive exam data. <br><br>
 -> *Student ERP Portal*: A cross-platform Flutter application featuring automated attendance tracking, academic dashboards, and public API integration. <br><br> -> *Family Tree Builder*: A dynamic web application for visualizing and managing complex family relationships with JSON-based data portability.<br><br>
- *JustGo — Smart GPS Trip Tracker (Full-Stack Web Application):
+-> *JustGo — Smart GPS Trip Tracker* (Full-Stack Web Application):
 Developed a full-stack Smart GPS Trip Tracker for real-time trip monitoring and contextual speed analysis using live
 geolocation and mapping technologies.<br><br>
 **📈 Beyond the CodeStrategic Thinker**: 
